@@ -1,2 +1,2 @@
 # SQL
- This project is My SQL project in  which i use CONVID-19 data set
+ This project is My SQL project in  which I use a CONVID-19 data set
